@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to Precision Medicine Tutorials
 
-_This is the first page the student will see when opening the url._
+Welcome
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Go through this workbook to get the most of your tutorials
